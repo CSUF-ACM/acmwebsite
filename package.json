@@ -1,0 +1,44 @@
+{
+  "name": "acmwebsite",
+  "version": "0.1.0",
+  "dependencies": {
+    "autosize": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "fullcalendar": "^3.9.0",
+    "fullcalendar-reactwrapper": "^1.0.7",
+    "fullcalendar-scheduler": "^1.9.3",
+    "history": "^4.7.2",
+    "jquery": "^3.3.1",
+    "nodemailer": "^4.4.2",
+    "path": "^0.12.7",
+    "react": "^16.2.0",
+    "react-big-calendar": "^0.19.1",
+    "react-dom": "^16.2.0",
+    "react-google-calendar-events-list": "^1.1.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "1.1.5",
+    "react-scroll": "^1.7.7",
+    "react-textarea-autosize": "^5.2.1",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "superagent": "^3.8.3",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "build:custom": "node scripts/webpack",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "webpack": "webpack"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0",
+    "offline-plugin": "latest",
+    "webpack": "^3.11.0"
+  }
+}

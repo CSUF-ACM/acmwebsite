@@ -1,0 +1,17 @@
+
+.uk-navbar-container .uk-navbar-nav>li>a::before{
+    content:'';
+    display:block;
+    position:absolute;
+    left:15px;
+    right:calc(102% - 15px);
+    bottom:20px;
+    height:1px;
+    background-color:currentColor;
+    transition:.3s ease-in-out;
+    transition-property:right
+}
+
+.uk-navbar-container .uk-navbar-nav>li>a:hover::before{
+    right:15px;
+}

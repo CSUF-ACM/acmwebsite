@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3189f2c7-7e90-476d-9759-b9986c4a171c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/acmwebsite/src/containers/about/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/acmwebsite/src/containers/about/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/home/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/app/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/about/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="24" column="134" lean-forward="true" selection-start-line="24" selection-start-column="134" selection-end-line="24" selection-end-column="134" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;html lang=en&gt;&lt;meta charset=utf-8&gt;&lt;link href=img/acm-desktopcta.png rel=apple-touch-icon sizes=76x76&gt;&lt;link href=img/acm-desktopcta.png rel=icon type=image/png&gt;&lt;meta content=&quot;IE=edge,chrome=1&quot;http-equiv=X-UA-Compatible&gt;&lt;meta content=&quot;width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0&quot;name=viewport&gt;&lt;title&gt;CSUF ACM Homepage&lt;/title&gt;&lt;link href=https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.38/css/uikit.min.css rel=stylesheet&gt;&lt;link href=https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css rel=stylesheet&gt;&lt;link href=static/css/style.css rel=stylesheet&gt;&lt;script src=https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js&gt;&lt;/script&gt;&lt;script src=https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.38/js/uikit.min.js&gt;&lt;/script&gt;&lt;script src=https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.38/js/uikit-icons.min.js&gt;&lt;/script&gt;&lt;style&gt;.uk-navbar-container .uk-navbar-item:not(.uk-logo),.uk-navbar-container .uk-navbar-toggle,.uk-navbar-nav&gt;li&gt;a{height:70px;font-size:13px}.uk-navbar-container .uk-navbar-nav&gt;li&gt;a{position:relative;color:#fff}.uk-navbar-container .uk-navbar-nav&gt;li&gt;a:hover{position:relative;color:#fff}.uk-navbar-container .uk-navbar-nav&gt;li&gt;a::before{content:'';display:block;position:absolute;left:15px;right:calc(102% - 15px);bottom:20px;height:1px;background-color:currentColor;transition:.3s ease-in-out;transition-property:right}.uk-navbar-container .uk-navbar-nav&gt;li&gt;a:hover::before{right:15px}.uk-nav&gt;li.uk-active&gt;a{position:relative}.uk-nav&gt;li.uk-active&gt;a:before{content:&quot;&quot;;position:absolute;top:15px;left:-25px;width:15px;border-top:1px solid #1e87f0}.uk-nav .uk-nav-header{padding:8px 0;border-bottom:1px solid #e5e5e5}&lt;/style&gt;&lt;div id=offcanvas-navbar uk-offcanvas=&quot;mode: reveal; flip: true;&quot;&gt;&lt;div class=uk-offcanvas-bar&gt;&lt;ul class=&quot;uk-nav uk-nav-default&quot;&gt;&lt;li&gt;&lt;a href=about&gt;About Us&lt;/a&gt;&lt;li&gt;&lt;a href=board&gt;The Board&lt;/a&gt;&lt;li class=uk-parent&gt;&lt;a href=events&gt;Events&lt;/a&gt;&lt;ul class=uk-nav-sub&gt;&lt;li&gt;&lt;a href=events&gt;Schedule&lt;/a&gt;&lt;li&gt;&lt;a href=seminars&gt;Seminars&lt;/a&gt;&lt;/ul&gt;&lt;li&gt;&lt;a href=contact&gt;Contact Us&lt;/a&gt;&lt;li&gt;&lt;a href=subscribe&gt;Get Involved&lt;/a&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;uk-flex uk-background-cover&quot;style=background-image:url(img/4696338852_bde479b169_o.jpg);height:calc(100vh);min-height:calc(100vh) alt=&quot;ACM Background Picture&quot;title=&quot;ACM Background Picture&quot;uk-parallax=&quot;bgy: -200&quot;&gt;&lt;div class=&quot;uk-flex uk-position-cover uk-background-primary uk-blend-multiply&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;uk-flex uk-position-cover uk-flex-center uk-flex-middle&quot;&gt;&lt;div class=&quot;uk-light uk-child-width-1-1@s uk-grid-collapse uk-text-center&quot;uk-grid&gt;&lt;div&gt;&lt;p&gt;&lt;h1 class=uk-heading-primary&gt;Association for Computing Machinery&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;p style=transform:scale(.5);opacity:0 uk-parallax=&quot;opacity: 0,1; scale: 0.5,1; viewport: 0.5;&quot;&gt;CSUF ACM. Welcome.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=uk-position-top&gt;&lt;div class=uk-light&gt;&lt;nav class=&quot;uk-navbar-container uk-navbar-transparent&quot;uk-navbar&gt;&lt;div class=uk-navbar-left&gt;&lt;div class=&quot;uk-inline-clip uk-margin-left uk-transition-toggle&quot;tabindex=&quot;&quot;&gt;&lt;img alt=&quot;home link logo&quot;height=50 src=http://acm.ecs.fullerton.edu/img/acm-desktopcta.png width=50&gt; &lt;a href=/ &gt;&lt;img alt=&quot;hover home link logo&quot;height=50 src=http://acm.ecs.fullerton.edu/img/acm-desktopctahover.png width=50 class=&quot;uk-position-cover uk-transition-fade&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=uk-navbar-right&gt;&lt;ul class=&quot;uk-navbar-nav uk-visible@s&quot;&gt;&lt;li&gt;&lt;a href=about&gt;About Us&lt;/a&gt;&lt;li&gt;&lt;a href=board&gt;The Board&lt;/a&gt;&lt;li&gt;&lt;a href=events aria-expanded=false&gt;Events&lt;/a&gt;&lt;div class=&quot;uk-navbar-dropdown uk-navbar-dropdown-bottom-left&quot;style=left:1462.11px;top:80px&gt;&lt;ul class=&quot;uk-nav uk-navbar-dropdown-nav&quot;&gt;&lt;li&gt;&lt;a href=events&gt;Schedule&lt;/a&gt;&lt;li&gt;&lt;a href=seminars&gt;Seminars&lt;/a&gt;&lt;/ul&gt;&lt;/div&gt;&lt;li&gt;&lt;a href=contact&gt;Contact Us&lt;/a&gt;&lt;li&gt;&lt;a href=subscribe&gt;Get Involved&lt;/a&gt;&lt;/ul&gt;&lt;div class=&quot;uk-navbar-right uk-hidden@s&quot;&gt;&lt;a href=# class=&quot;uk-icon uk-navbar-toggle uk-navbar-toggle-icon&quot;id=toggle-sidebar-item uk-navbar-toggle-icon=&quot;&quot;uk-toggle=&quot;target: #offcanvas-navbar&quot;&gt;&lt;svg height=20 ratio=1 viewBox=&quot;0 0 20 20&quot;width=20 xmlns=http://www.w3.org/2000/svg&gt;&lt;rect height=2 width=20 y=9&gt;&lt;/rect&gt;&lt;rect height=2 width=20 y=3&gt;&lt;/rect&gt;&lt;rect height=2 width=20 y=15&gt;&lt;/rect&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/nav&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;uk-section uk-section-secondary&quot;role=main&gt;&lt;div class=uk-container&gt;&lt;h3&gt;Who are we?&lt;/h3&gt;&lt;p&gt;A club and community for students with a passion for computer science.&lt;h3&gt;Interested in getting involved?&lt;/h3&gt;&lt;p&gt;Click the links above!&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;uk-light uk-section uk-section-primary&quot;&gt;&lt;div class=uk-container&gt;&lt;div class=&quot;uk-child-width-1-2@s uk-child-width-1-3@m&quot;uk-grid&gt;&lt;div&gt;&lt;h3&gt;ACM &lt;span class=&quot;fa fa-fw fa-pulse fa-star&quot;&gt;&lt;/span&gt; CSUF&lt;/h3&gt;&lt;p&gt;Association of Computing Machinery&lt;br&gt;California State University, Fullerton&lt;/div&gt;&lt;div&gt;&lt;h3&gt;Find us on Social Media&lt;/h3&gt;&lt;p&gt;&lt;a href=https://www.twitter.com/acmcsuf class=&quot;uk-margin-small-right uk-icon-button&quot;aria-label=&quot;twitter link&quot;target=_blank title=@acmcsuf uk-icon=&quot;icon: twitter&quot;uk-tooltip=&quot;pos: bottom&quot;&gt;&lt;/a&gt; &lt;a href=https://www.facebook.com/groups/acmcsuf class=&quot;uk-margin-small-right uk-icon-button&quot;aria-label=&quot;facebook group link&quot;target=_blank title=/group/acmcsuf uk-icon=&quot;icon: facebook&quot;uk-tooltip=&quot;pos: top&quot;&gt;&lt;/a&gt; &lt;a href=https://www.instagram.com/acmcsuf class=&quot;uk-margin-small-right uk-icon-button&quot;aria-label=&quot;instagram link&quot;target=_blank title=@acmcsuf uk-icon=&quot;icon: instagram&quot;uk-tooltip=&quot;pos: right&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;h3&gt;Meetings&lt;/h3&gt;&lt;p&gt;ICPC Practice @ CS101 starting 9/22/17&lt;br&gt;&lt;span class=uk-margin-small-right uk-icon=&quot;icon: git-fork&quot;&gt;&lt;/span&gt;Bi-weekly Fridays 4-6pm&lt;p&gt;Project Jams @ CS300 starting 9/29/17&lt;br&gt;&lt;span class=uk-margin-small-right uk-icon=&quot;icon: git-branch&quot;&gt;&lt;/span&gt;Bi-weekly Fridays 4-8pm&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</find>
+      <find>jquery</find>
+      <find>seminars</find>
+      <find>input</find>
+      <find>fieldset</find>
+      <find>class</find>
+      <find>uk-navbar</find>
+      <find>_blank</find>
+      <find>google</find>
+      <find>get_cal</find>
+      <find>=&gt;</find>
+      <find>contact</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>className</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/static/css/fullcalendar.print.css" />
+        <option value="$PROJECT_DIR$/static/css/fullcalendar.css" />
+        <option value="$PROJECT_DIR$/static/js/Advisors.js" />
+        <option value="$PROJECT_DIR$/static/js/AdvisorsList.js" />
+        <option value="$PROJECT_DIR$/static/js/Fall2017List.js" />
+        <option value="$PROJECT_DIR$/static/js/Spring2018List.js" />
+        <option value="$PROJECT_DIR$/static/js/Seminars.js" />
+        <option value="$PROJECT_DIR$/subscribe.html" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/mailinglist/index.js" />
+        <option value="$PROJECT_DIR$/events.html" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/seminars.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/board.html" />
+        <option value="$PROJECT_DIR$/acmwebsite/package.json" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/header/index.js" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/navigation/style.css" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/style.css" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/home/style.css" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/board/Fall2017List.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/student_cards/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/advisor_cards/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/seminar_cards/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/footer/index.js" />
+        <option value="$PROJECT_DIR$/static/js/SeminarsList.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/schedule/gcal.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/schedule/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/public/index.html" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/contactUs/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/ContactForm/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/contact/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/seminars/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/events/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/subscribe/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/board/Spring2018List.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/board/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/board/AdvisorsList.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/index.js" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/acmwebsite/build/.htaccess" />
+        <option value="$PROJECT_DIR$/acmwebsite/public/.htaccess" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/navigation/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/components/navigation_side/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/home/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/app/index.js" />
+        <option value="$PROJECT_DIR$/acmwebsite/src/containers/about/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/acmwebsite/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="45" />
+    <option name="y" value="22" />
+    <option name="width" value="1400" />
+    <option name="height" value="838" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>HtmlUnknownTarget</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="acmwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acmwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acmwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acmwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acmwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acmwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acmwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="events" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acmwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acmwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="acmwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/acmwebsite/public" />
+      <recent name="$PROJECT_DIR$/acmwebsite/src/containers/events" />
+      <recent name="$PROJECT_DIR$/acmwebsite/src/containers/seminars" />
+      <recent name="$PROJECT_DIR$/acmwebsite/src" />
+      <recent name="$PROJECT_DIR$/acmwebsite/src/containers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3189f2c7-7e90-476d-9759-b9986c4a171c" name="Default" comment="" />
+      <created>1517343775357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517343775357</updated>
+      <workItem from="1517343777083" duration="340000" />
+      <workItem from="1517349932247" duration="2525000" />
+      <workItem from="1518145163501" duration="730000" />
+      <workItem from="1519241241768" duration="3048000" />
+      <workItem from="1519560765310" duration="2000" />
+      <workItem from="1522704876928" duration="666000" />
+      <workItem from="1525398587085" duration="30280000" />
+      <workItem from="1525569894746" duration="1116000" />
+      <workItem from="1525844920061" duration="5455000" />
+      <workItem from="1525923534026" duration="209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44371000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="22" width="1400" height="838" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32928476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32928476" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32928476" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/acmwebsite/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/modules/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1395" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/public/service-worker.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/components/header/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="81" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/components/navigation/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html" />
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/board.html" />
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/components/footer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/components/seminar_cards/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/node_modules/fullcalendar-reactwrapper/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/global-types/node_modules/@types/react/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="280" column="10" selection-start-line="280" selection-start-column="10" selection-end-line="280" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminars.html" />
+    <entry file="file://$PROJECT_DIR$/acmwebsite/node_modules/react-google-calendar-events-list/dist/react-google-calendar-events-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="125" column="6" selection-start-line="125" selection-start-column="6" selection-end-line="127" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/components/schedule/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/components/schedule/gcal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="72" lean-forward="true" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/SeminarsList.js" />
+    <entry file="file://$PROJECT_DIR$/contact.php" />
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/events/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="90" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events.html" />
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/seminars/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/subscribe/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscribe.html" />
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/contact/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/Spring2018List.js" />
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/board/Spring2018List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/components/student_cards/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/board/Fall2017List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/board/AdvisorsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/build/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/components/advisor_cards/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/components/ContactForm/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/board/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/components/navigation/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/components/navigation_side/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/node_modules/history/PathUtils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/home/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/home/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acmwebsite/src/containers/about/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="24" column="134" lean-forward="true" selection-start-line="24" selection-start-column="134" selection-end-line="24" selection-end-column="134" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

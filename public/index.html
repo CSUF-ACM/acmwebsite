@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" class="js no-touch">
+  <head>
+    <meta charset="utf-8" />
+    <!--When bookmarked on Apple Devices will use icon image-->
+    <link rel="apple-touch-icon" sizes="76x76" href="./favicon.png">
+    <!--icon for page-->
+    <link rel="icon" type="image/png" href="./favicon.png">
+    <!--Adds compatibility with edge and chrome-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <!--changes scale when used on phone-->
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="viewport" content="width=device-width" />
+
+    <title>CSUF ACM</title>
+    <script src=https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.38/js/uikit.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.38/js/uikit-icons.min.js"></script>
+    <link href='./fullcalendar.css' rel='stylesheet'/>
+    <link href='./fullcalendar.print.css' rel='stylesheet'/>
+
+  </head>
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+    <script src='./moment.min.js'></script>
+    <script src='./fullcalendar.min.js'></script>
+    <script src='./gcal.min.js'></script>
+    <script>
+        $(document).ready(function() {
+          $("#calendar").fullCalendar({
+            header: {
+              left: "title",
+              center: "list,month",
+              right: "prev,next today"
+            },
+            views: {
+              list: {
+                duration: { days: 365 },
+                listDayAltFormat: 'dddd'
+              }
+            },
+            defaultView: "list",
+            displayEventTime: !1,
+            googleCalendarApiKey: "AIzaSyCwhfMkXl4-iaXUXfP8cBc1LEG3DESnky0",
+            eventSources: [
+              {googleCalendarId:"jo7mgmudv8uibuffbqtdk1isgc@group.calendar.google.com"},
+              {googleCalendarId:"hs6bk4b2nb2dvshs787timb7fo@group.calendar.google.com", className:"nice-event"}
+            ],
+            eventClick:function(e){
+              return window.open(e.url,"gcalevent","width=700,height=600"),
+              !1
+            },
+            viewRender: function(view) {
+              if (view.type !== 'month')
+                $(".fc-left").html("<h2>Upcoming Events</h2>");
+            }
+          })
+        }
+        )
+    </script>
+  </body>
+</html>

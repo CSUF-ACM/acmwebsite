@@ -1,19 +1,25 @@
 import React from 'react';
+import Link from "react-router-dom/es/Link";
+import UIkit from 'uikit/dist/js/uikit.min';
 
-export default ({name}) => {
+export default ({name, clickThis = () => {
+    UIkit.offcanvas(document.getElementById('offcanvas-navbar')).hide();
+}}) => {
+
     return <div id='offcanvas-navbar' uk-offcanvas="mode: reveal; flip: true;">
         <div className='uk-offcanvas-bar'>
+            <button className="uk-offcanvas-close" type="button" uk-close=""/>
             <ul className="uk-nav uk-nav-default">
-                <li className={name === "about" ? "uk-active" : ""}><a href='/about'>About Us</a></li>
-                <li className={name === "board" ? "uk-active" : ""}><a href='/board'>The Board</a></li>
+                <li className={name === "about" ? "uk-active" : ""}><Link onClick={clickThis} to='/about'>About Us</Link></li>
+                <li className={name === "board" ? "uk-active" : ""}><Link onClick={clickThis} to='/board'>The Board</Link></li>
                 <li className={name === "events" ? "uk-active uk-parent" : "uk-parent"}><a href='/events'>Events</a>
                         <ul className='uk-nav-sub'>
                             <li className={name === "events" ? "uk-active" : ""}><a href='/events'>Schedule</a></li>
-                            <li className={name === "seminars" ? "uk-active" : ""}><a href='/seminars'>Seminars</a></li>
+                            <li className={name === "seminars" ? "uk-active" : ""}><Link onClick={clickThis} to='/seminars'>Seminars</Link></li>
                         </ul>
                 </li>
-                <li className={name === "contact" ? "uk-active" : ""}><a href='/contact'>Contact Us</a></li>
-                <li className={name === "subscribe" ? "uk-active" : ""}><a href='/subscribe'>Get Involved</a></li>
+                <li className={name === "contact" ? "uk-active" : ""}><Link onClick={clickThis} to='/contact'>Contact Us</Link></li>
+                <li className={name === "subscribe" ? "uk-active" : ""}><Link onClick={clickThis} to='/subscribe'>Get Involved</Link></li>
             </ul>
         </div>
     </div>

@@ -24,12 +24,12 @@ export default () => {
                             return (
                                 <p key={meetings[i].id}>
                                     <span className='meeting-title'>{meetings[i].name}</span>
-                                    {(meetings[i].room ? ` @ ${meetings[i].room}` : '')}
                                     <br/>
                                     {(meetings[i].start_date ? `${meetings[i].start_date}` : '')}
+                                    {(meetings[i].times ? ` @ ${meetings[i].times}` : '')}
                                     <br/>
                                     <span className='uk-margin-small-right' uk-icon={(meetings[i].icon ? meetings[i].icon : '')}/>
-                                    {meetings[i].times}
+                                    {meetings[i].room}
                                 </p>
                             )
                         })

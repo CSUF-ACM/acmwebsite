@@ -22,7 +22,7 @@ const Card = ({image, name, title, description, email, github = null, linkedin =
                 <div className="uk-card-header">
                     <div className="uk-grid-small uk-flex-middle" uk-grid="">
                         <div className="uk-width-auto">
-                            <img className="uk-border-circle" alt={name + "'s headshot image"} width="75" height="75" src={image} />
+                            <img className="uk-border-circle" alt={name + "'s headshot"} width="75" height="75" src={image} />
                         </div>
                         <div className="uk-width-expand">
                             <h3 className="uk-card-title uk-margin-remove-bottom">{name}</h3>

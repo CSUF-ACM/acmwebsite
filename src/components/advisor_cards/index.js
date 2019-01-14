@@ -14,7 +14,7 @@ const Advisor = ({image, name, title, email, color}) => {
     return (
         <div>
             <div className={"uk-tile uk-tile-" + color}>
-                <img className="uk-border-circle" width="75" height="75" alt={name + "'s headshot image"} src={image} />
+                <img className="uk-border-circle" width="75" height="75" alt={name + "'s headshot"} src={image} />
                 <p className="uk-h4">{name}</p>
                 <p className=" uk-margin-remove-top uk-label">{title}</p>
                 <p><a href={"mailto:" + email} aria-label={name + "'s email link"} className="uk-icon-button  uk-margin-small-right uk-animation-scale-up" dangerouslySetInnerHTML={{__html:""}} uk-icon="icon: mail"/></p>

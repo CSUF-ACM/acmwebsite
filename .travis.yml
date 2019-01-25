@@ -9,7 +9,7 @@ before_install:
 - chmod 600 /tmp/deploy_rsa
 - ssh-add /tmp/deploy_rsa
 before_deploy:
-- ssh-keyscan -t $TRAVIS_SSH_KEY_TYPES -H $SERVER_URL 2>&1 | tee -a $HOME/.ssh/known_hosts
+- ssh-keyscan -H $SERVER_URL 2>&1 | tee -a $HOME/.ssh/known_hosts
 deploy:
   provider: script
   skip_cleanup: true

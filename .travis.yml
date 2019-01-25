@@ -1,6 +1,10 @@
 language: node_js
 node_js:
 - lts/*
+addons:
+  apt:
+    packages:
+    - sshpass
 script: npm run build
 before_install:
 - openssl aes-256-cbc -K $encrypted_9df4efaa7c2d_key -iv $encrypted_9df4efaa7c2d_iv

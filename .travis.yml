@@ -9,7 +9,8 @@ before_install:
 - chmod 600 /tmp/deploy_rsa
 - ssh-add /tmp/deploy_rsa
 addons:
-  ssh_known_hosts: $SERVER_URL
+  ssh_known_hosts:
+  - $SERVER_URL
 deploy:
   provider: script
   skip_cleanup: true

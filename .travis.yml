@@ -12,7 +12,7 @@ before_deploy:
 - ssh-keyscan -H $SERVER_URL 2>&1 | tee -a $HOME/.ssh/known_hosts
 deploy:
   provider: script
-  skip_cleanup: true
-  script: rsync -r --quiet $TRAVIS_BUILD_DIR/build/* $SERVER_USER@$SERVER_URL:~/homepage
+  script: bash scripts/deploy.sh
   on:
     branch: master
+    condition: $TRAVIS_TEST_RESULT = 0

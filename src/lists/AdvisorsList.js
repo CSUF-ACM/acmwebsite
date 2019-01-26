@@ -27,12 +27,5 @@ export default [{
         name: "Yun Tian",
         title: "Professor",
         email: "ytian@fullerton.edu"
-    },
-    {
-        id: 4,
-        image: LuisImage,
-        name: "Luis Larco",
-        title: "Googler in Residence",
-        email: "llarco@fullerton.edu"
     }
 ];

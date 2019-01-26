@@ -1,7 +1,6 @@
 import BethImage from '../media/beth.png';
 import AnandImage from '../media/anand.jpg';
 import YunImage from '../media/yun.jpg';
-import LuisImage from '../media/luis.jpg';
 
 // id's divisible by the following:
 // odd is blue

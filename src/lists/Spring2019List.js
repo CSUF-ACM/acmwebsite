@@ -11,7 +11,7 @@ import LonnieImage from '../media/lonnie.jpg';
 import AaronImage from '../media/aaron.jpg';
 import RobertImage from '../media/robert.JPG';
 import JacobImage from '../media/jacob_sml.jpg';
-
+import PayneImage from '../media/payne.png';
 export default [
     {
         id: 1,
@@ -81,17 +81,17 @@ export default [
         linkedin: "https://www.linkedin.com/in/lonnie-hansen-312831149/"
     },
     {
-        id: 13,
+        id: 8,
         image: JacobImage,
         name: "Jacob Powell",
         title: "Project Manager",
-        description: " ",
+        description: "Creates new programs and manages current programs. Develops student projects and workshops.",
         email: " ",
         github: " ",
         linkedin: " "
     },
     {
-        id: 8,
+        id: 9,
         image: WilliamImage,
         name: "William Clemons",
         title: "Competition Manager",
@@ -101,7 +101,7 @@ export default [
         linkedin: "https://www.linkedin.com/in/william-clemons-0308a4105/"
     },
     {
-        id: 9,
+        id: 10,
         image: HuyImage,
         name: "Huy Tran",
         title: "ICC Representative",
@@ -109,7 +109,7 @@ export default [
         email: "huytran2012@csu.fullerton.edu"
     },
     {
-        id: 10,
+        id: 11,
         image: AaronImage,
         name: "Aaron Carver",
         title: "Workshop Manager",
@@ -128,7 +128,7 @@ export default [
         linkedin: "https://www.linkedin.com/in/robert-ruiz-993153a1/"
     },
     {
-        id: 11,
+        id: 13,
         image: JesseImage,
         name: "Jesse Mazzella",
         title: "Web Master",
@@ -136,5 +136,15 @@ export default [
         email: "jmazzella@csu.fullerton.edu",
         github: "https://github.com/ozyx",
         linkedin: "https://www.linkedin.com/in/jesse-mazzella-a28a22116/"
+    },
+    {
+        id: 14,
+        image: PayneImage,
+        name: "Payne Lacsamana",
+        title: "Web Master",
+        description: "Maintains the official website and manages ACM GitHub repositories. Benevolent web overlord.",
+        email: "rlacsamana@csu.fullerton.edu",
+        github: "https://github.com/paynegray",
+        linkedin: "https://www.linkedin.com/in/paynel/"
     }
 ];

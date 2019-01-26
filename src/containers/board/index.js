@@ -8,6 +8,7 @@ import CardList from "../../components/student_cards";
 import BoardImage from '../../media/blank.jpg';
 import Fall2018List from '../../lists/Fall2018List';
 import Spring2018List from '../../lists/Spring2018List';
+import Spring2019List from '../../lists/Spring2019List';
 import AdvisorsList from "../../lists/AdvisorsList";
 
 const Board = () => {
@@ -20,13 +21,17 @@ const Board = () => {
             <ul className="uk-flex-center uk-flex uk-subnav uk-subnav-pill"
                 uk-switcher="animation: uk-animation-scale-up; swiping:true;">
                 {/* Add the button to see more board members here! */}
+                <li><a href='#spring2019-members'>Spring 2019</a></li>
                 <li><a href='#fall2018-members'>Fall 2018</a></li>
                 <li><a href='#spring2018-members'>Spring 2018</a></li>
+                
             </ul>
             <ul className="uk-margin-small-right uk-margin-small-left uk-switcher">
                 {/* Add new board members here follow the same format! */}
+                <li id='spring2019-members'><CardList members={Spring2019List}/></li>
                 <li id='fall2018-members'><CardList members={Fall2018List}/></li>
                 <li id='spring2018-members'><CardList members={Spring2018List}/></li>
+                
             </ul>
         </div>
         <div className="uk-section uk-section-default">

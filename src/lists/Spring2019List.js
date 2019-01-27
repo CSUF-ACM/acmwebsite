@@ -3,7 +3,6 @@ import OscarImage from '../media/oscar.jpg';
 import TommyImage from '../media/tommy.jpg';
 import ChantalleImage from '../media/chantalle_sml.jpg';
 import JulianImage from '../media/julian.jpg';
-import DipenImage from '../media/dipen2_sml.jpg';
 import WilliamImage from '../media/william.jpg';
 import HuyImage from '../media/huy.jpg';
 import JesseImage from '../media/jesse.jpg';
@@ -60,16 +59,8 @@ export default [
         description: "Publicizes events and programs. Responsible for Social Media accounts.",
         email: "julian.c28@gmail.com"
     },
-    {
-        id: 6,
-        image: DipenImage,
-        name: "Dipen Patel",
-        title: "Project Manager",
-        description: "Creates new programs and manages current programs. Develops student projects and workshops.",
-        email: "dipenp@csu.fullerton.edu",
-        github: "https://github.com/Dipenp",
-        linkedin: "https://www.linkedin.com/in/dipen-patel89/"
-    },
+
+    /*removed 6*/
     {
         id: 7,
         image: LonnieImage,
@@ -147,4 +138,20 @@ export default [
         github: "https://github.com/paynegray",
         linkedin: "https://www.linkedin.com/in/paynel/"
     }
+
+    /*,
+    {
+
+        name: "Janeen Yamak",
+        title: "Communications Coordinator"        
+    },
+    {
+        name: "James",
+        title: "ICC Representative"
+
+    },
+    {
+        name: "Madi",
+        title: "Historian"
+    }*/
 ];

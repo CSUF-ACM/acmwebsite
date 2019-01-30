@@ -11,6 +11,9 @@ import AaronImage from '../media/aaron.jpg';
 import RobertImage from '../media/robert.JPG';
 import JacobImage from '../media/jacob_sml.jpg';
 import PayneImage from '../media/payne.png';
+import JamesImage from '../media/james.jpg';
+import JaneenImage from '../media/janeen_sml.jpg';
+import MadiImage from '../media/madi_sml.jpg';
 export default [
     {
         id: 1,
@@ -100,6 +103,14 @@ export default [
         email: "huytran2012@csu.fullerton.edu"
     },
     {
+        image: JamesImage,
+        name: "James Werrett",
+        title: "ICC Representative",
+        description: "Attends InterClub Council meetings once every two weeks. Presents and votes on proposals on behalf of the club.",
+        email: "jswerrett@gmail.com",
+        github: "https://github.com/jswerrett"
+    },
+    {
         id: 11,
         image: AaronImage,
         name: "Aaron Carver",
@@ -137,21 +148,21 @@ export default [
         email: "rlacsamana@csu.fullerton.edu",
         github: "https://github.com/paynegray",
         linkedin: "https://www.linkedin.com/in/paynel/"
-    }
-
-    /*,
+    },
     {
-
+        image: JaneenImage,
         name: "Janeen Yamak",
-        title: "Communications Coordinator"        
+        title: "Communications Coordinator",
+        description: "",   
+        email: "janeenyamak1@gmail.com",    
+        github: "https://github.com/janeenyamak"
+        
     },
     {
-        name: "James",
-        title: "ICC Representative"
-
-    },
-    {
-        name: "Madi",
-        title: "Historian"
-    }*/
+        image: MadiImage,
+        name: "Madison Jordan",
+        description: "",
+        title: "Historian",
+        email: "madisonjordan@csu.fullerton.edu" 
+    }
 ];

@@ -9,7 +9,7 @@ import LonnieImage from '../media/lonnie.jpg';
 import AaronImage from '../media/aaron.jpg';
 import RobertImage from '../media/robert.JPG';
 import JacobImage from '../media/jacob_sml.jpg';
-import PayneImage from '../media/payne.png';
+import PayneImage from '../media/payne.jpg';
 import JamesImage from '../media/james_sml.jpg';
 import JaneenImage from '../media/janeen_sml.jpg';
 import MadiImage from '../media/madi_sml.jpg';

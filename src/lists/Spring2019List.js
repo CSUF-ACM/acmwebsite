@@ -4,16 +4,16 @@ import TommyImage from '../media/tommy.jpg';
 import ChantalleImage from '../media/chantalle_sml.jpg';
 import JulianImage from '../media/julian.jpg';
 import WilliamImage from '../media/william.jpg';
-import HuyImage from '../media/huy.jpg';
 import JesseImage from '../media/jesse.jpg';
 import LonnieImage from '../media/lonnie.jpg';
 import AaronImage from '../media/aaron.jpg';
 import RobertImage from '../media/robert.JPG';
 import JacobImage from '../media/jacob_sml.jpg';
 import PayneImage from '../media/payne.png';
-import JamesImage from '../media/james.jpg';
+import JamesImage from '../media/james_sml.jpg';
 import JaneenImage from '../media/janeen_sml.jpg';
 import MadiImage from '../media/madi_sml.jpg';
+
 export default [
     {
         id: 1,
@@ -24,7 +24,7 @@ export default [
         email: "omolazabal@csu.fullerton.edu",
         linkedin: "https://linkedin.com/in/oscar-olazabal",
         github: "https://github.com/omolazabal"
-    }, 
+    },
     {
         id: 2,
         image: TommyImage,
@@ -36,13 +36,12 @@ export default [
     },
     {
         id: 3,
-        image: ChantalleImage,
-        name: "Chantalle Bril",
-        title: "Secretary",
-        description: "Takes meeting minutes and sends out emails. Responsible for all forms of communication.",
-        email: "cbril@csu.fullerton.edu",
-        linkedin: "https://www.linkedin.com/in/chantallebril/",
-        github: "https://github.com/cbril"
+        image: JaneenImage,
+        name: "Janeen Yamak",
+        title: "Comm. Coordinator",
+        description: "Takes meeting minutes and sends out emails. Responsible for all forms of communication.",   
+        email: "janeenyamak1@gmail.com",    
+        github: "https://github.com/janeenyamak"
     },
     {
         id: 4,
@@ -62,8 +61,16 @@ export default [
         description: "Publicizes events and programs. Responsible for Social Media accounts.",
         email: "julian.c28@gmail.com"
     },
-
-    /*removed 6*/
+    {
+        id: 6,
+        image: ChantalleImage,
+        name: "Chantalle Bril",
+        title: "Project Manager",
+        description: "Creates new programs and manages current programs. Develops student projects and workshops.",
+        email: "cbril@csu.fullerton.edu",
+        linkedin: "https://www.linkedin.com/in/chantallebril/",
+        github: "https://github.com/cbril"
+    },
     {
         id: 7,
         image: LonnieImage,
@@ -80,9 +87,7 @@ export default [
         name: "Jacob Powell",
         title: "Project Manager",
         description: "Creates new programs and manages current programs. Develops student projects and workshops.",
-        email: " ",
-        github: " ",
-        linkedin: " "
+        email: "scoutdude@csu.fullerton.edu"
     },
     {
         id: 9,
@@ -96,13 +101,6 @@ export default [
     },
     {
         id: 10,
-        image: HuyImage,
-        name: "Huy Tran",
-        title: "ICC Representative",
-        description: "Attends InterClub Council meetings once every two weeks. Presents and votes on proposals on behalf of the club.",
-        email: "huytran2012@csu.fullerton.edu"
-    },
-    {
         image: JamesImage,
         name: "James Werrett",
         title: "ICC Representative",
@@ -133,8 +131,8 @@ export default [
         id: 13,
         image: JesseImage,
         name: "Jesse Mazzella",
-        title: "Web Master",
-        description: "Maintains the official website and manages ACM GitHub repositories. Benevolent web overlord.",
+        title: "Co-WebMaster",
+        description: "Maintains the official website and manages ACM GitHub repositories. Benevolent web co-overlord.",
         email: "jmazzella@csu.fullerton.edu",
         github: "https://github.com/ozyx",
         linkedin: "https://www.linkedin.com/in/jesse-mazzella-a28a22116/"
@@ -143,26 +141,18 @@ export default [
         id: 14,
         image: PayneImage,
         name: "Payne Lacsamana",
-        title: "Web Master",
-        description: "Maintains the official website and manages ACM GitHub repositories. Benevolent web overlord.",
+        title: "Co-WebMaster",
+        description: "Maintains the official website and manages ACM GitHub repositories. Benevolent web co-overlord.",
         email: "rlacsamana@csu.fullerton.edu",
         github: "https://github.com/paynegray",
         linkedin: "https://www.linkedin.com/in/paynel/"
     },
     {
-        image: JaneenImage,
-        name: "Janeen Yamak",
-        title: "Communications Coordinator",
-        description: "",   
-        email: "janeenyamak1@gmail.com",    
-        github: "https://github.com/janeenyamak"
-        
-    },
-    {
+        id: 15,
         image: MadiImage,
         name: "Madison Jordan",
-        description: "",
         title: "Historian",
+        description: "Manages the ACM blog site and writes about recent ACM events.",
         email: "madisonjordan@csu.fullerton.edu" 
     }
 ];

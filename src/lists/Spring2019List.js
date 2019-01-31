@@ -38,7 +38,7 @@ export default [
         id: 3,
         image: JaneenImage,
         name: "Janeen Yamak",
-        title: "Comm. Coordinator",
+        title: "Communications Coordinator",
         description: "Takes meeting minutes and sends out emails. Responsible for all forms of communication.",   
         email: "janeenyamak1@gmail.com",    
         github: "https://github.com/janeenyamak"
@@ -131,7 +131,7 @@ export default [
         id: 13,
         image: JesseImage,
         name: "Jesse Mazzella",
-        title: "Co-WebMaster",
+        title: "Co-Webmaster",
         description: "Maintains the official website and manages ACM GitHub repositories. Benevolent web co-overlord.",
         email: "jmazzella@csu.fullerton.edu",
         github: "https://github.com/ozyx",
@@ -141,7 +141,7 @@ export default [
         id: 14,
         image: PayneImage,
         name: "Payne Lacsamana",
-        title: "Co-WebMaster",
+        title: "Co-Webmaster",
         description: "Maintains the official website and manages ACM GitHub repositories. Benevolent web co-overlord.",
         email: "rlacsamana@csu.fullerton.edu",
         github: "https://github.com/paynegray",
@@ -152,7 +152,7 @@ export default [
         image: MadiImage,
         name: "Madison Jordan",
         title: "Historian",
-        description: "Manages the ACM blog site and writes about recent ACM events.",
+        description: "Manages the ACM news site and writes about recent ACM events.",
         email: "madisonjordan@csu.fullerton.edu" 
     }
 ];

@@ -17,7 +17,7 @@ const Board = () => {
         <Header image={BoardImage} heading={'Board Members'} subtext={'Meet the members in charge.'} imagePosition={'top'}/>
         <Navigation name={'board'}/>
         <div className="uk-section uk-section-default" role='main'>
-            <h1 className="uk-heading-line uk-heading-primary uk-text-center"></h1>
+            <div className="uk-heading-line uk-heading-primary uk-text-center"/>
             <ul className="uk-flex-center uk-flex uk-subnav uk-subnav-pill"
                 uk-switcher="animation: uk-animation-scale-up; swiping:true;">
                 {/* Add the button to see more board members here! */}

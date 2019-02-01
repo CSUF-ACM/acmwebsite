@@ -68,7 +68,7 @@ const Home = () => {
                                     color:'#fff',
                                     height:'70px',
                                     fontSize:'13px'
-                                }} to='board' onClick={Scroll.animateScroll.scrollToTop()}>The Board</Link></li>
+                                }} to='board' onClick={Scroll.animateScroll.scrollToTop()}>Board Members</Link></li>
                                 <li>
                                     <a style={{
                                         position:'relative',
@@ -96,7 +96,7 @@ const Home = () => {
                                     fontSize:'13px'
                                 }} to='subscribe' onClick={Scroll.animateScroll.scrollToTop()}>Get Involved</Link></li>
                             </ul>
-                            <div className="uk-navbar-right uk-hidden@s"><a className='uk-navbar-toggle' dangerouslySetInnerHTML={{__html: ""}} uk-navbar-toggle-icon=""
+                            <div className="uk-navbar-right uk-hidden@s"><div className='uk-navbar-toggle' dangerouslySetInnerHTML={{__html: ""}} uk-navbar-toggle-icon=""
                                                                             uk-toggle="target: #offcanvas-navbar"/></div>
                         </div>
                     </nav>

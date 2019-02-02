@@ -63,38 +63,32 @@ const Home = () => {
                                     height:'70px',
                                     fontSize:'13px'
                                 }} to='about' onClick={Scroll.animateScroll.scrollToTop()}>About Us</Link></li>
-                                <li><Link style={{
-                                    position:'relative',
-                                    color:'#fff',
-                                    height:'70px',
-                                    fontSize:'13px'
-                                }} to='board' onClick={Scroll.animateScroll.scrollToTop()}>Board Members</Link></li>
                                 <li>
                                     <a style={{
                                         position:'relative',
                                         color:'#fff',
                                         height:'70px',
                                         fontSize:'13px'
-                                    }} href='events' onClick={Scroll.animateScroll.scrollToTop()} aria-expanded='false'>Events</a>
-                                    <div className="uk-navbar-dropdown uk-navbar-dropdown-bottom-left" style={{left:'1462.11px',top:'80px'}}>
-                                    <ul className="uk-nav uk-navbar-dropdown-nav">
-                                        <li><a href='events' onClick={Scroll.animateScroll.scrollToTop()}>Schedule</a></li>
-                                        <li><Link to='seminars' onClick={Scroll.animateScroll.scrollToTop()}>Seminars</Link></li>
-                                    </ul>
-                                </div>
+                                    }} href='events' onClick={Scroll.animateScroll.scrollToTop()} aria-expanded='false'>Events Calendar</a>
                                 </li>
                                 <li><Link style={{
                                     position:'relative',
                                     color:'#fff',
                                     height:'70px',
                                     fontSize:'13px'
-                                }} to='contact'>Contact Us</Link></li>
+                                }} to='subscribe' onClick={Scroll.animateScroll.scrollToTop()}>Mailing List</Link></li>
                                 <li><Link style={{
                                     position:'relative',
                                     color:'#fff',
                                     height:'70px',
                                     fontSize:'13px'
-                                }} to='subscribe' onClick={Scroll.animateScroll.scrollToTop()}>Get Involved</Link></li>
+                                }} to='board' onClick={Scroll.animateScroll.scrollToTop()}>Board Members</Link></li>
+                                <li><Link style={{
+                                    position:'relative',
+                                    color:'#fff',
+                                    height:'70px',
+                                    fontSize:'13px'
+                                }} to='contact'>Contact Us</Link></li>
                             </ul>
                             <div className="uk-navbar-right uk-hidden@s"><div className='uk-navbar-toggle' dangerouslySetInnerHTML={{__html: ""}} uk-navbar-toggle-icon=""
                                                                             uk-toggle="target: #offcanvas-navbar"/></div>

@@ -8,7 +8,7 @@ import EventsImage from '../../media/IMG_0586.JPG';
 const Events = () => {
     return <div>
         <NavigationSide name={'events'}/>
-        <Header image={EventsImage} heading={'Our Events'} subtext={'Come and Participate.'} imagePosition={'center'}/>
+        <Header image={EventsImage} heading={'Events'} subtext={'Come and Participate.'} imagePosition={'center'}/>
         <Navigation name={'events'}/>
         <div className="uk-section uk-section-default" role='main'>
             <div className='uk-container'>
@@ -16,7 +16,6 @@ const Events = () => {
             </div>
         </div>
         <Footer/>
-
     </div>
 };
 

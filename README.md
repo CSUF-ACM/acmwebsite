@@ -11,9 +11,8 @@
 
 ### Dev
 
-In a terminal, navigate to the repository and execute these commands:
+In a terminal, navigate to the repository and execute this command:
 
-- `cd acmwebsite`
 - `npm install && npm start`
 
 A browser will launch and open the website. You can now begin development! Any changes made to the website will update automatically, no need to rebuild.

@@ -93,7 +93,6 @@ export default [
         email: "shivamshah98@csu.fullerton.edu",
         linkedin: "https://www.linkedin.com/in/shivam-shah-296576182/"
     },
-
     {
         id: 9,
         image: HollandImage,

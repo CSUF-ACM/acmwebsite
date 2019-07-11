@@ -1,5 +1,5 @@
 import JamesImage from '../media/james_sml.jpg';
-import KennethImage from '../media/Kenneth.png';
+import KennethImage from '../media/kenneth2.png';
 import JacobImage from '../media/jacob_sml.jpg';
 import MadiImage from '../media/Madi2.png';
 import ShivamImage from '../media/Shivam.png';

@@ -9,6 +9,8 @@ import RadhikaImage from '../media/Radhika.jpg';
 import GracieImage from '../media/Graciela.jpg';
 import TaylorImage from '../media/Taylor_sml.png';
 import KizarImage from '../media/Kizar.jpg';
+import JasonAImage from '../media/jasonAnthony.jpg';
+import HarlikImage from '../media/Harlik.png';
 
 export default [
     {
@@ -114,6 +116,26 @@ export default [
     },
     {
         id: 11,
+        image: HarlikImage,
+        name: "Harlik Shah",
+        title: "ICC REPRESENTATIVE",
+        description: "Attends InterClub Council meetings once every two weeks. Presents and votes on proposals on behalf of the club.",
+        email: "shahharlik@csu.fullerton.edu",
+        github: "",
+        linkedin: ""
+    },
+    {
+        id: 12,
+        image: JasonAImage,
+        name: "Jason Anthony",
+        title: "Events Coordinator",
+        description: "Oversees event planning and management of weekly meetings",
+        email: "janthony125@csu.fullerton.edu",
+        github: "https://github.com/Janthony125",
+        linkedin: "https://www.linkedin.com/in/janthony125/"
+    },
+    {
+        id: 13,
         image: KizarImage,
         name: "Kizar Cassiere",
         title: "Web Master",

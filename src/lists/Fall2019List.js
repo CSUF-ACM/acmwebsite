@@ -1,7 +1,7 @@
 import JamesImage from '../media/james_sml.jpg';
 import KennethImage from '../media/kenneth2.png';
 import JacobImage from '../media/jacob_sml.jpg';
-import MadiImage from '../media/Madi2.png';
+import YukiImage from '../media/Yuki.jpg';
 import ShivamImage from '../media/Shivam.png';
 import HollandImage from '../media/Holland.jpg';
 import JasonImage from '../media/Jason_sml.png';
@@ -78,12 +78,13 @@ export default [
 
     {
         id: 7,
-        image: MadiImage,
-        name: "Madison Jordan",
+        image: YukiImage,
+        name: "Yu Kuo",
         title: "Project Manager",
         description: "Creates new programs and manages current programs. Develops student projects and workshops.",
-        email: "madisonjordan@csu.fullerton.edu",
-        linkedin: "https://www.linkedin.com/in/madison-jordan-6b2997182/"
+        email: "yuki.coco@csu.fullerton.edu",
+        linkedin: "www.linkedin.com/in/yukinj",
+        github: "https://github.com/yukinj"
     },
 
       {
@@ -121,8 +122,8 @@ export default [
         title: "ICC REPRESENTATIVE",
         description: "Attends InterClub Council meetings once every two weeks. Presents and votes on proposals on behalf of the club.",
         email: "shahharlik@csu.fullerton.edu",
-        github: "",
-        linkedin: ""
+        github: "https://github.com/harlikshah",
+        linkedin: "https://www.linkedin.com/in/harlikshah"
     },
     {
         id: 12,

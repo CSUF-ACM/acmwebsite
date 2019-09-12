@@ -79,7 +79,7 @@ export default [
     {
         id: 7,
         image: YukiImage,
-        name: "Yu Kuo",
+        name: "Yu Kou",
         title: "Project Manager",
         description: "Creates new programs and manages current programs. Develops student projects and workshops.",
         email: "yuki.coco@csu.fullerton.edu",

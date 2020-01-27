@@ -11,7 +11,7 @@ import KizarImage from '../media/Kizar.jpg';
 import JasonAImage from '../media/jasonAnthony.jpg';
 import HarlikImage from '../media/Harlik.png';
 import JacobNImage from '../media/JacobN.png';
-import SamImage from '../media/Sam.jpg';
+import SamImage from '../media/Sam2.jpg';
 
 export default [
     {

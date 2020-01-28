@@ -96,7 +96,8 @@ export default [
         title: "Workshop Manager",
         description: "Plans, produces, and executes workshops.",
         email: "jn42@csu.fullerton.edu",
-        linkedin: "http://linkedin.com/in/jacob-nguyen-899b80194"
+        linkedin: "http://linkedin.com/in/jacob-nguyen-899b80194",
+        github: "https://github.com/barrotbake"
     },
         {
         id: 9,

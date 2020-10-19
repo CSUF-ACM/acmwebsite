@@ -8,12 +8,12 @@
     "fullcalendar-reactwrapper": "^1.0.7",
     "fullcalendar-scheduler": "^1.9.3",
     "history": "^4.7.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.1",
     "nodemailer": "^4.4.2",
     "path": "^0.12.7",
-    "react": "^16.2.0",
+    "react": "^16.14.0",
     "react-big-calendar": "^0.19.1",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.14.0",
     "react-google-calendar-events-list": "^1.1.0",
     "react-redux": "^5.0.6",
     "react-router-dom": "^4.2.2",
@@ -24,7 +24,7 @@
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "superagent": "^3.8.3",
-    "webpack-dev-server": "^2.11.1"
+    "webpack-dev-server": "^2.11.5"
   },
   "scripts": {
     "start": "react-scripts start",
